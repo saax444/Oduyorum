@@ -45,3 +45,5 @@ layout: default
   <h2>Bugünü görün.<br>Yarını planlayın.</h2>
   <div class="actions"><a class="button primary" href="privacy.html">Gizlilik politikası</a><a class="button ghost" href="support.html">Destek</a></div>
 </section>
+
+<!-- Premium site refresh -->
